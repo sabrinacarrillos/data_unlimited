@@ -23,7 +23,7 @@
     }
     body { padding-bottom: 50px; }
     footer{
-      font-family:'Playfair Display', serif; 
+      font-family: 'Pacifico', cursive; 
       font-size: 24px;
     }
   </style>
